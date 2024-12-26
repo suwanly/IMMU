@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567064691632",
+    "project_id": "mimu-56987",
+    "storage_bucket": "mimu-56987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567064691632:android:e40fcfab9e452b50e90c75",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567064691632-8cnfip3b42iij398evbi89ots2l0ttm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxYX-zOz5XJ-C74xbemkbPy98tKNbau9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567064691632-8cnfip3b42iij398evbi89ots2l0ttm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
