@@ -1,12 +1,13 @@
 # IMMU: IMage to MUsic
 ### DCS Silver prize!
 
-IMMU is an innovative project that transforms images into music, creating a unique auditory experience based on visual input.
+IMMU is an innovative project that transforms images into music, creating a unique auditory experience based on visual input.  
+We developed IMMU at 2023, Augest. 
 
 ## Features
 
-- **Image Analysis**: Utilizes advanced image processing techniques to extract key features from input images.
-- **Music Generation**: Converts visual features into musical compositions, ensuring each image produces a distinct melody.
+- **Image Analysis(BLIP & GPT)**: Utilizes advanced image processing techniques to extract key features from input images.
+- **Music Generation(Riffusion)**: Converts visual features into musical compositions, ensuring each image produces a distinct melody.
 - **Cross-Platform Support**: Developed using Flutter, allowing seamless operation on Android, iOS, web, and desktop platforms.
 
 ## Installation
@@ -51,6 +52,7 @@ IMMU is an innovative project that transforms images into music, creating a uniq
 2. **Upload an Image**: Use the interface to select and upload your desired image.
 3. **Generate Music**: Click the 'Generate' button to create a musical piece based on the uploaded image.
 4. **Listen and Save**: Enjoy the generated music and save it if desired.
++ **Notice** : You should use your own gpt api key!
 
 ## Dependencies
 
